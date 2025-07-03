@@ -40,7 +40,7 @@ HR_Employees
 Shows only HR employees with WITH CHECK OPTION to restrict insert/update access.
 
 📌 Sample Queries
-SELECT * FROM EmployeeDetails;
-SELECT * FROM HighEarners;
-SELECT * FROM AvgSalaryPerDept;
-SELECT * FROM HR_Employees;
+/SELECT * FROM EmployeeDetails;
+/SELECT * FROM HighEarners;
+/SELECT * FROM AvgSalaryPerDept;
+/SELECT * FROM HR_Employees;
